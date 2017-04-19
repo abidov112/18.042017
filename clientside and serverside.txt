@@ -1,0 +1,18 @@
+Client-side 
+browserin url yazilan yerinde ne vaxtki adressi yazsaniz,sizin kompyuterozunu musteri kimi aparir,
+web serverden idare olunan melumatlara sorgu gonderir.Web sehifede gorduyunuz butun kodlar,sekiller,melumatlar
+hamisi uzagdan idare olunan server terefinde borwsere gonderilir.Browser sizin gorduyunuz web sehifelerin 
+menbelerini qebul etdiyi ve yaratdigilarini biryere toplayir.Web sehifeler sadece HTML ifadelerden,metn ve 
+sekillerden ibaretdir,daha murekkeb versiyasi ucunse cielnt browserde ve ya web serverde kodlari calisdirilir.
+Browser bu tip tapsiriqlarin yerine yetirilmesi ucun web serverle elaqe quea bilmir amma cilient-side kod bezi
+tapsiriqlari server-side kodlarinnan daha suretli edir.Meselcun:menuyu acmaq ucun kliklediyinizde client-side 
+kod derhal herekete kecr.eger bunu server-side elesesiz browserin menyunu acmamisdan qabag serverle elaqe 
+saxalamagini gozlemelisiniz.
+Server-side 
+Server-side kodlara PHP ASP.NET daxildir.server-sideweb serverde isleyir.Eger siz web sayta ziyaret etseniz
+hecc  vaxt bilmiyeceksiznizki o ne derece icrasi mewguldur.En gozel misal ASP.NET sehifesinde sekillerin olcusunu 
+deysmekdir.Kliklediyinizden sonra web servere upload olunan sekil,kod sekilin olcusun deysir ve yeniden sizin
+browserinize qaytarir.Serrver-side kod size datalarin berpasini ve depolamasina komeklik gosterir.bu cox vacibidr,
+hekaye seklinde datalar ve ya logini berpe elemek kimi seylerde bu8unun cox komeyi deyir.Meselen siz PHP de kod
+yaza bilersiniz mulkiyyetlerin satisi ile bagli ve sirketde bunu gizli saxlamalidir.Burada kod serverde islediyi ucun 
+insanlar bunu gore bilmirler.
